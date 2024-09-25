@@ -22,12 +22,20 @@
   <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=FFFFFF" /> 
 </div>
 
-
 ### Studying 📖
 <div align="center">
   <img src="https://img.shields.io/badge/React%20Query-FF4154.svg?style=for-the-badge&logo=reactquery&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Recoil-3578E5.svg?style=for-the-badge&logo=recoil&logoColor=FFFFFF" />
+
 </div>
 
+### Tools 🛠️
+<div align="center">
+    <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=FFFFFF" />
+    <img src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=FFFFFF" />
+<div/>
+
+<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Db0111&layout=compact)
   
