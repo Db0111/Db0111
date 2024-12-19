@@ -26,6 +26,9 @@
 <div align="center">
   <img src="https://img.shields.io/badge/React%20Query-FF4154.svg?style=for-the-badge&logo=reactquery&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Recoil-3578E5.svg?style=for-the-badge&logo=recoil&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Next.js-20232a?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  
+
 
 </div>
 
