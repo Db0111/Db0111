@@ -1,10 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome%20to%20Db0111's%20Github&fontSize=40&animation=blink&stroke=F5A9D0&strokeWidth=1)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Welcome%20to%20Db's%20Github&fontColor=000000&fontSize=50&strokeWidth=1
+)
 
-### FrontEnd Developer 💻
+### 🌟 About Me
+> 꾸준히 배우며 더 나은 사용자 경험을 만드는 **프론트엔드 개발자 김덕빈**입니다.  
+> 기술의 깊이와 협업의 즐거움을 모두 추구하며, 항상 “어제보다 나은 코드”를 쓰기 위해 노력합니다.
 
-- 🍀 새로운 기술을 두려워하지 않는 개발자
-- 🍀 빠른 성장을 지향하는 개발자
-- 🍀 협업을 위해 부족한 점은 스스로 채워가나는 개발자
+- 🍀 새로운 기술을 두려워하지 않고 탐구합니다.  
+- 🚀 빠르게 성장하며 문제를 끝까지 해결합니다.  
+- 🤝 협업 속에서 스스로 부족한 부분을 채워갑니다.  
 
 ### Skills 🤩
 <div align="center">
@@ -22,8 +25,10 @@
 <div align="center">
    <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=FFFFFF" /> 
   <img src="https://img.shields.io/badge/Webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=000000" /> 
-  <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=webpack&logoColor=ffffff" /> 
+  <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=ffffff" /> 
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=ffffff" /> 
+  <img src="https://img.shields.io/badge/Cypress-69D3A7.svg?style=for-the-badge&logo=cypress&logoColor=000000" /> 
+
 </div>
 
 ### Studying 📖
@@ -38,6 +43,8 @@
 <div align="center">
     <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=FFFFFF" />
     <img src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=FFFFFF" />
+      <img src="https://img.shields.io/badge/Notion-FFFFFF.svg?style=for-the-badge&logo=notion&logoColor=000000" />
+
 <div/>
 
 <br>
@@ -45,7 +52,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Db0111&layout=compact)
   
 [![Db0111's GitHub stats](https://github-readme-stats.vercel.app/api?username=Db0111&theme=radical)](https://github.com/Db0111/github-readme-stats)
-
-  
 
   
