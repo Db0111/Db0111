@@ -7,7 +7,12 @@
 
 - 🍀 새로운 기술을 두려워하지 않고 탐구합니다.  
 - 🚀 빠르게 성장하며 문제를 끝까지 해결합니다.  
-- 🤝 협업 속에서 스스로 부족한 부분을 채워갑니다.  
+- 🤝 협업 속에서 스스로 부족한 부분을 채워갑니다.
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deokbin-kim-059992361/)](https://www.linkedin.com/in/deokbin-kim-059992361/)
+[![Tistory Badge](https://img.shields.io/badge/-Tistory-orange?style=for-the-badge&logo=Tistory&logoColor=white&link=https://dev-tomato.tistory.com/)](https://dev-tomato.tistory.com)
+
 
 ### Skills 🤩
 <div align="center">
