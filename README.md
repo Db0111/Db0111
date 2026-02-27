@@ -54,8 +54,3 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Db0111&layout=compact)
-  
-[![Db0111's GitHub stats](https://github-readme-stats.vercel.app/api?username=Db0111&theme=radical)](https://github.com/Db0111/github-readme-stats)
-
-  
